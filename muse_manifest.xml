@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1531285110447">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="13790628" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u323.php" crc="275728335" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="carouselimg1.png" crc="4046270989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carouselimg2.jpg" crc="46722216" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carouselimg3.jpg" crc="3798095803" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="156058896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u197-4.png" crc="3963993662" ref="index"/>
+  </folder>
+  <file name="index.html" crc="128377263" seo="true" mt="1531284573010" redirect="true"/>
+</manifest>
